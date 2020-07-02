@@ -6,8 +6,8 @@ $_['text_extension'] = 'Extensions';
 $_['text_success'] = 'Plisio payment details have been successfully updated.';
 $_['text_test_mode_on'] = 'On';
 $_['text_test_mode_off'] = 'Off';
-
 $_['entry_status'] = 'Payment Method Enabled';
+$_['entry_sort_order'] = 'Sort Order';
 $_['entry_test_mode'] = 'Test Mode';
 $_['entry_api_secret_key'] = 'API Secret Key';
 $_['entry_white_label'] = 'White label processing';
